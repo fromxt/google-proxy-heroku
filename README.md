@@ -1,6 +1,6 @@
 # google-proxy-heroku
 
-Run a reverse proxy using nginx on Heroku.
+Run a google reverse proxy using go on Heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
