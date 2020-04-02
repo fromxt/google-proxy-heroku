@@ -1,0 +1,6 @@
+github.com/AaronO/gogo-proxy v0.0.0-20150423181345-7d3d33435d04 h1:1jQ87RuZbiIO7xLuRHt61pMAHDUyD2WakFCaxSj9p90=
+github.com/AaronO/gogo-proxy v0.0.0-20150423181345-7d3d33435d04/go.mod h1:jfHrUVHOjuntcs2koxLvnZu6GX3jI/I1MmliwTGgfcY=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/koding/websocketproxy v0.0.0-20181220232114-7ed82d81a28c h1:N7A4JCA2G+j5fuFxCsJqjFU/sZe0mj8H0sSoSwbaikw=
+github.com/koding/websocketproxy v0.0.0-20181220232114-7ed82d81a28c/go.mod h1:Nn5wlyECw3iJrzi0AhIWg+AJUb4PlRQVW4/3XHH1LZA=

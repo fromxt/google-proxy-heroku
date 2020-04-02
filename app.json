@@ -1,0 +1,15 @@
+{
+  "name": "Google reverse proxy using go",
+  "description": "reverse proxy",
+  "keywords": [
+    "proxy",
+    "go"
+  ],
+  "env": {
+	   "UPSTREAM_SERVER": {
+		"description": "URL of upstream server to which all requests should be proxied eg.https://www.google.com"
+		}
+	 },
+  "website": "https://github.com/fromxt/google-proxy-heroku.git",
+  "repository": "https://github.com/fromxt/google-proxy-heroku"
+}
