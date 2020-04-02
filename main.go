@@ -8,9 +8,10 @@ import (
 
 func main() {
     port := os.Getenv("PORT")
+    upstream_server := os.Getenv("UPSTREAM_SERVER")
     p, _ := proxy.New(proxy.ProxyOptions{
         Balancer: func(req *http.Request) (string, error) {
-            return <%= ENV["UPSTREAM_SERVER"] %>, nil
+            return upstream_server, nil
         },
     })
 
