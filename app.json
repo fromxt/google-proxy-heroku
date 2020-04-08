@@ -6,7 +6,7 @@
     "go"
   ],
   "website": "https://github.com/fromxt/google-proxy-heroku.git",
-  "repository": "https://github.com/fromxt/google-proxy-heroku"
+  "repository": "https://github.com/fromxt/google-proxy-heroku",
   "env": {
      "UPSTREAM_SERVER": {
         "description": "URL of upstream server to which all requests should be proxied eg.https://www.google.com"
