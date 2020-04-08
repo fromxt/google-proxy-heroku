@@ -5,7 +5,6 @@
     "proxy",
     "go"
   ],
-  "website": "https://github.com/fromxt/google-proxy-heroku.git",
   "repository": "https://github.com/fromxt/google-proxy-heroku",
   "env": {
      "UPSTREAM_SERVER": {
