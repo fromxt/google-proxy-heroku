@@ -11,6 +11,6 @@
      "UPSTREAM_SERVER": {
         "description": "URL of upstream server to which all requests should be proxied eg.https://www.google.com",
 	"value": "https://www.google.com"
-	}
-	 }
+	   }
+        }
 }
